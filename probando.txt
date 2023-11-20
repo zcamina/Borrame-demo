@@ -1,3 +1,11 @@
 GIT 
 
-Git is a distributed vesion control system(DVCS) used for tracking changes in sources codes during software development.Being a distributed vesion vontrol system means that every developer working with a Git repository has full copy of the entire repoditory, including its historyand branches, on their local machine.
+Git is a distributed vesion control system(DVCS) used for tracking changes in sources codes during software development.
+
+Being a distributed vesion vontrol system means that every developer working with a Git repository has full copy of the entire repoditory, including its historyand branches, on their local machine.
+
+Git advantages:
+- Offline work. Developers can work on their local copy of the reopository without being connected to a network.
+- Redundancy. Each developer´s local repository is a complete backup of the entire project .
+- Collaboration. Changes can be shared adn merged between repositories easily.
+- Performance. Local repository in Git are usually fast because they are performed on the local copy of the repositor.
