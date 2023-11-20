@@ -1,0 +1,3 @@
+GIT 
+
+Git is a distributed vesion control system(DVCS) used for tracking changes in sources codes during software development.Being a distributed vesion vontrol system means that every developer working with a Git repository has full copy of the entire repoditory, including its historyand branches, on their local machine.
