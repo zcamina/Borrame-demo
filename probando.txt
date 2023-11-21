@@ -9,3 +9,12 @@ Git advantages:
 - Redundancy. Each developer´s local repository is a complete backup of the entire project .
 - Collaboration. Changes can be shared adn merged between repositories easily.
 - Performance. Local repository in Git are usually fast because they are performed on the local copy of the repositor.
+
+Git init. 
+This command is used to initialize a new Git repository within a folder or directory, converting the folder into a Local Git repository,
+
+Git remove.
+The command is used to followed by the file name you want to delete,
+
+Git checkout
+It ia a versatile and powerful command that is used primarily to switch branches, work with different cimmits and manipulate files in your repository.
